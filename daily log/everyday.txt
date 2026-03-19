@@ -1,0 +1,178 @@
+1️⃣ Arrays & Hashing
+
+Start here (foundations).
+
+Do these first:
+
+Two Sum
+
+Contains Duplicate
+
+Valid Anagram
+
+Group Anagrams
+
+Top K Frequent Elements
+
+Product of Array Except Self
+
+Encode and Decode Strings
+
+Longest Consecutive Sequence
+
+Goal: understand HashMap / HashSet thinking.
+
+2️⃣ Two Pointers
+
+Problems:
+
+Valid Palindrome
+
+Two Sum II
+
+3Sum
+
+Container With Most Water
+
+Goal: learn pointer movement logic.
+
+3️⃣ Sliding Window
+
+Problems:
+
+Best Time to Buy and Sell Stock
+
+Longest Substring Without Repeating Characters
+
+Longest Repeating Character Replacement
+
+Permutation in String
+
+Minimum Window Substring
+
+Goal: expand + shrink window technique.
+
+4️⃣ Stack
+
+Problems:
+
+Valid Parentheses
+
+Min Stack
+
+Evaluate Reverse Polish Notation
+
+Daily Temperatures
+
+Largest Rectangle in Histogram
+
+Goal: understand monotonic stack.
+
+5️⃣ Binary Search
+
+Problems:
+
+Binary Search
+
+Search a 2D Matrix
+
+Koko Eating Bananas
+
+Find Minimum in Rotated Sorted Array
+
+Search in Rotated Sorted Array
+
+Goal: divide search space.
+
+6️⃣ Linked List
+
+Problems:
+
+Reverse Linked List
+
+Merge Two Sorted Lists
+
+Linked List Cycle
+
+Remove Nth Node From End
+
+Reorder List
+
+Goal: pointer manipulation.
+
+7️⃣ Trees
+
+Problems:
+
+Invert Binary Tree
+
+Maximum Depth of Binary Tree
+
+Same Tree
+
+Subtree of Another Tree
+
+Lowest Common Ancestor
+
+Binary Tree Level Order Traversal
+
+Validate BST
+
+Goal: DFS recursion thinking.
+
+8️⃣ Heap / Priority Queue
+
+Problems:
+
+Kth Largest Element in Array
+
+Top K Frequent Elements
+
+Find Median from Data Stream
+
+Goal: efficient top-k retrieval.
+
+9️⃣ Backtracking
+
+Problems:
+
+Subsets
+
+Combination Sum
+
+Permutations
+
+Word Search
+
+Goal: explore decision tree.
+
+🔟 Graph
+
+Problems:
+
+Number of Islands
+
+Clone Graph
+
+Course Schedule
+
+Pacific Atlantic Water Flow
+
+Goal: BFS / DFS traversal.
+
+1️⃣1️⃣ Dynamic Programming
+
+Problems:
+
+Climbing Stairs
+
+House Robber
+
+Coin Change
+
+Longest Increasing Subsequence
+
+
+git add .
+git commit -m "message"
+git push

@@ -1,0 +1,37 @@
+1. % (Modulo) — Your Remainder Finder:
+n % 10 → last digit | n % 2 → even/odd | n % k == 0 → divisible by k
+
+2. Running Min/Max Pattern:
+max = arr[0]; for(x : arr) max = Math.max(max, x);
+Applies to: max, min, second-max, running profit, etc.
+
+3. Two Pointer Pattern:
+int left = 0, right = n - 1;
+while (left < right) {
+    // check or process arr[left] and arr[right]
+    // move pointers based on condition:
+    // if some condition -> left++;
+    // else -> right--;
+}
+4. HashMap Pattern (O(1) lookup)
+When you need to 'remember what you've seen': map.put(x, index);
+if(map.containsKey(target-x)) → found pair!
+Applies to: two-sum, duplicates, anagram, frequency count
+
+5. HashSet Pattern (membership test)
+set.add(x) for all in array 1;
+for array 2: if(set.contains(x)) → in both!
+Applies to: intersection, union, duplicates, LCS
+
+6. Accumulator / Counter Pattern
+sum=0; count=0; for(x:arr) { sum+=x; if(cond) count++; }
+Applies to: sum, count, product of any collection
+
+7. Math Sum Formula
+1+2+...+N = N*(N+1)/2
+Use for: missing number, duplicate, expected vs actual
+
+8. Kadane's Algorithm
+cur = max(arr[i], cur + arr[i]);
+max = max(max, cur);
+'Keep running OR start fresh' → max subarray
