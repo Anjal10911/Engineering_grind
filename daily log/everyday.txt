@@ -172,7 +172,7 @@ Coin Change
 
 Longest Increasing Subsequence
 
-
+## EVERYCOMMIT:
 git add .
 git commit -m "message"
 git push
